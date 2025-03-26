@@ -64,7 +64,7 @@ body {
     top: 0;
     bottom: 0;
     left: calc(200px + 5px); /* Adjust based on your title width and margin */
-    border-left: 2px solid black;
+    border-left: 1px solid black;
     z-index: 0; /* Behind the title and content */
 }
 
